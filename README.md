@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **AI-ML-DS Projects**
 
-- 👨‍💻 All of my projects are available at [https://id12026.github.io/Portfolio/](https://id12026.github.io/Portfolio/)
-
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, PHP,MySQL, Django, Flask**
 
 - 📫 How to reach me **mohitha12026@gmail.com**
