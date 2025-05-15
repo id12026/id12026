@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mohitha12026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mQGWIgBpqUIY3QGRucVzrHMdxxy_FGrF/view?usp=drive_link](https://drive.google.com/file/d/1mQGWIgBpqUIY3QGRucVzrHMdxxy_FGrF/view?usp=drive_link)
-
 - ⚡ Fun fact **🎨 "Apart from coding, I love drawing and expressing creativity through art!"**
 
 <h3 align="left">Connect with me:</h3>
